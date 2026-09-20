@@ -1,0 +1,178 @@
+[
+   {
+    "question": "Welche Bedeutung hat die Abnahme beim Werkvertrag?",
+    "options": {
+      "A": "Sie ist ein zentraler Begriff des Werkvertragsrechts und betrifft die Entgegennahme beziehungsweise Billigung des vertragsgemäß hergestellten Werks.",
+      "B": "Sie existiert ausschließlich beim Kauf von Lebensmitteln.",
+      "C": "Sie bedeutet, dass der Auftragnehmer den Vertrag kündigt.",
+      "D": "Sie ist lediglich eine freiwillige Bewertung im Internet."
+    },
+    "correct": "A",
+    "explanation": "Die Abnahme ist im Werkvertragsrecht von zentraler Bedeutung. Nach § 640 BGB ist der Besteller grundsätzlich verpflichtet, das vertragsmäßig hergestellte Werk abzunehmen, sofern nicht nach der Beschaffenheit des Werks eine Abnahme ausgeschlossen ist."
+  },
+  {
+    "question": "Ein Softwareentwickler wird für sechs Monate nach Arbeitszeit bezahlt und verpflichtet sich zu laufender Entwicklungsarbeit, ohne einen bestimmten fertigen Projekterfolg zu schulden. Welcher Vertragstyp passt grundsätzlich besser?",
+    "options": {
+      "A": "Werkvertrag, weil jede Programmierung automatisch ein Werkvertrag ist.",
+      "B": "Kaufvertrag.",
+      "C": "Dienstvertrag.",
+      "D": "Sachdarlehensvertrag."
+    },
+    "correct": "C",
+    "explanation": "Wenn die Tätigkeit beziehungsweise die Erbringung von Diensten geschuldet wird und kein bestimmter Erfolg Vertragsgegenstand ist, spricht dies grundsätzlich für einen Dienstvertrag. Die Bezeichnung der Tätigkeit als Softwareentwicklung entscheidet allein noch nicht über den Vertragstyp."
+  },
+  {
+    "question": "Ein Unternehmen verpflichtet sich vertraglich, eine konkret definierte funktionsfähige Software nach festgelegten Anforderungen fertigzustellen. Welcher Vertragstyp liegt vom Grundprinzip her näher?",
+    "options": {
+      "A": "Dienstvertrag, weil bei Software niemals ein Erfolg geschuldet werden kann.",
+      "B": "Sachdarlehensvertrag.",
+      "C": "Mietvertrag.",
+      "D": "Werkvertrag, weil ein bestimmter Erfolg geschuldet wird."
+    },
+    "correct": "D",
+    "explanation": "Wird ein konkret bestimmter Erfolg geschuldet, beispielsweise die Herstellung einer funktionsfähigen Software nach vereinbarten Anforderungen, entspricht dies grundsätzlich dem Kerngedanken des Werkvertrags. Für die rechtliche Einordnung eines konkreten Vertrags ist allerdings stets sein tatsächlicher Inhalt maßgeblich."
+  },
+  {
+    "question": "Was ist das wichtigste Unterscheidungsmerkmal zwischen Dienst- und Werkvertrag?",
+    "options": {
+      "A": "Beim Dienstvertrag steht die geschuldete Tätigkeit im Vordergrund, beim Werkvertrag ein geschuldeter Erfolg.",
+      "B": "Ein Dienstvertrag darf niemals bezahlt werden.",
+      "C": "Werkverträge dürfen ausschließlich Handwerker abschließen.",
+      "D": "Dienstverträge können nur mündlich geschlossen werden."
+    },
+    "correct": "A",
+    "explanation": "Der zentrale Unterschied liegt im geschuldeten Leistungsinhalt. Beim Dienstvertrag werden Dienste beziehungsweise Tätigkeiten geschuldet. Beim Werkvertrag wird dagegen ein bestimmter Erfolg geschuldet."
+  },
+  {
+    "question": "Welche Aussage zur freien Berufswahl ist richtig?",
+    "options": {
+      "A": "Sie ist ausschließlich im BGB geregelt.",
+      "B": "Art. 12 Abs. 1 GG schützt für Deutsche die freie Wahl von Beruf, Arbeitsplatz und Ausbildungsstätte.",
+      "C": "Das Grundgesetz enthält keinerlei Regelung zur Berufswahl.",
+      "D": "Die Berufswahl wird ausschließlich durch das HGB geregelt."
+    },
+    "correct": "B",
+    "explanation": "Art. 12 Abs. 1 GG bestimmt, dass alle Deutschen das Recht haben, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder aufgrund eines Gesetzes geregelt werden."
+  },
+  {
+    "question": "Zu welchem Rechtsbereich gehört das Grundgesetz?",
+    "options": {
+      "A": "Zum öffentlichen Recht.",
+      "B": "Ausschließlich zum privaten Kaufrecht.",
+      "C": "Zum Werkvertragsrecht.",
+      "D": "Zum privaten Handelsrecht."
+    },
+    "correct": "A",
+    "explanation": "Das Grundgesetz ist die Verfassung der Bundesrepublik Deutschland und gehört zum öffentlichen Recht. Es enthält unter anderem Grundrechte sowie grundlegende Regelungen über den Aufbau und die Funktionen des Staates."
+  },
+  {
+    "question": "Zu welchem Rechtsbereich gehört das Handelsgesetzbuch (HGB) überwiegend?",
+    "options": {
+      "A": "Zum Strafrecht.",
+      "B": "Zum Sozialrecht.",
+      "C": "Zum Privatrecht.",
+      "D": "Zum Verfassungsrecht."
+    },
+    "correct": "C",
+    "explanation": "Das Handelsrecht ist Sonderprivatrecht für Kaufleute und gehört zum Privatrecht. Das HGB enthält insbesondere besondere Regelungen für Kaufleute und Handelsgesellschaften."
+  },
+  {
+    "question": "Ein Kunde kauft bei einem Händler einen Laptop. Welches Grundprinzip kennzeichnet diese privatrechtliche Beziehung?",
+    "options": {
+      "A": "Der Händler kann hoheitliche Verwaltungsakte gegen den Kunden erlassen.",
+      "B": "Der Kunde ist dem Händler staatsrechtlich untergeordnet.",
+      "C": "Der Händler besitzt staatliche Strafgewalt.",
+      "D": "Die Beteiligten stehen sich grundsätzlich rechtlich gleichgeordnet gegenüber."
+    },
+    "correct": "D",
+    "explanation": "Ein Kaufvertrag zwischen Kunde und Händler ist grundsätzlich eine privatrechtliche Beziehung. Die Vertragspartner stehen sich rechtlich gleichgeordnet gegenüber; keiner handelt allein aufgrund dieses Vertrags mit staatlicher Hoheitsgewalt."
+  },
+  {
+    "question": "Eine Behörde erlässt aufgrund gesetzlicher Befugnisse einen belastenden Bescheid gegenüber einem Bürger. Welche Zuordnung passt am besten?",
+    "options": {
+      "A": "Öffentliches Recht.",
+      "B": "Privates Kaufrecht.",
+      "C": "Werkvertragsrecht.",
+      "D": "Sachdarlehensrecht."
+    },
+    "correct": "A",
+    "explanation": "Ein hoheitlicher Bescheid einer Behörde ist ein typischer Fall des öffentlichen Rechts. Die Behörde handelt aufgrund öffentlich-rechtlicher Befugnisse und nicht lediglich wie ein privater Vertragspartner."
+  },
+  {
+    "question": "Ein 17-Jähriger erhält ohne Zustimmung seiner Eltern ein Fahrrad geschenkt, ohne dadurch rechtliche Verpflichtungen zu übernehmen. Warum kann die Willenserklärung grundsätzlich auch ohne Einwilligung wirksam sein?",
+    "options": {
+      "A": "Weil Minderjährige ab 16 immer voll geschäftsfähig sind.",
+      "B": "Weil der Minderjährige durch das Rechtsgeschäft lediglich einen rechtlichen Vorteil erlangt.",
+      "C": "Weil Fahrräder keine Sachen sind.",
+      "D": "Weil Schenkungen immer öffentlich-rechtlich sind."
+    },
+    "correct": "B",
+    "explanation": "Nach § 107 BGB benötigt ein beschränkt geschäftsfähiger Minderjähriger die Einwilligung seines gesetzlichen Vertreters für eine Willenserklärung, durch die er nicht lediglich einen rechtlichen Vorteil erlangt. Eine reine Schenkung ohne rechtliche Belastungen kann lediglich rechtlich vorteilhaft sein."
+  },
+  {
+    "question": "Was ist der Unterschied zwischen Einwilligung und Genehmigung im Zusammenhang mit Rechtsgeschäften Minderjähriger?",
+    "options": {
+      "A": "Einwilligung ist die vorherige Zustimmung, Genehmigung die nachträgliche Zustimmung.",
+      "B": "Beide Begriffe bedeuten ausschließlich eine gerichtliche Verurteilung.",
+      "C": "Genehmigung muss immer vor dem Rechtsgeschäft erfolgen.",
+      "D": "Einwilligung ist nur bei volljährigen Personen möglich."
+    },
+    "correct": "A",
+    "explanation": "Einwilligung bezeichnet die vorherige Zustimmung zu einem Rechtsgeschäft. Genehmigung ist die nachträgliche Zustimmung. Diese Unterscheidung ist insbesondere bei beschränkt geschäftsfähigen Minderjährigen wichtig."
+  },
+  {
+    "question": "Welche Aussage beschreibt die schwebende Unwirksamkeit am besten?",
+    "options": {
+      "A": "Das Rechtsgeschäft ist endgültig nichtig und kann niemals wirksam werden.",
+      "B": "Der Vertrag ist bereits vollständig wirksam.",
+      "C": "Die endgültige Wirksamkeit des Vertrags hängt noch von einer erforderlichen Genehmigung ab.",
+      "D": "Der Vertrag wurde bereits erfolgreich angefochten."
+    },
+    "correct": "C",
+    "explanation": "Bei schwebender Unwirksamkeit steht noch nicht endgültig fest, ob der Vertrag wirksam wird. Ein typischer Fall ist § 108 BGB: Der ohne erforderliche Einwilligung geschlossene Vertrag eines beschränkt Geschäftsfähigen hängt von der Genehmigung des gesetzlichen Vertreters ab."
+  },
+  {
+    "question": "Ein beschränkt geschäftsfähiger Minderjähriger nimmt ohne erforderliche Einwilligung ein einseitiges Rechtsgeschäft vor. Welche Besonderheit ist gegenüber einem Vertrag zu beachten?",
+    "options": {
+      "A": "Einseitige Rechtsgeschäfte sind bei Minderjährigen immer automatisch wirksam.",
+      "B": "Sie werden immer zu Kaufverträgen.",
+      "C": "Sie sind stets lediglich schwebend unwirksam.",
+      "D": "Ein einseitiges Rechtsgeschäft ohne die erforderliche Einwilligung ist nach § 111 BGB grundsätzlich unwirksam."
+    },
+    "correct": "D",
+    "explanation": "§ 111 BGB enthält für einseitige Rechtsgeschäfte Minderjähriger eine strengere Regel als § 108 BGB für Verträge. Nimmt ein Minderjähriger ein solches Rechtsgeschäft ohne erforderliche Einwilligung des gesetzlichen Vertreters vor, ist es grundsätzlich unwirksam."
+  },
+  {
+    "question": "Welche Aussage über eine volljährige Person unter rechtlicher Betreuung ist grundsätzlich richtig?",
+    "options": {
+      "A": "Die Betreuung allein führt nicht automatisch zur Geschäftsunfähigkeit.",
+      "B": "Jede betreute Person ist automatisch geschäftsunfähig.",
+      "C": "Jede betreute Person wird rechtlich wie ein sechsjähriges Kind behandelt.",
+      "D": "Mit Einrichtung einer Betreuung endet automatisch die Rechtsfähigkeit."
+    },
+    "correct": "A",
+    "explanation": "Die Bestellung eines Betreuers führt nicht automatisch zur Geschäftsunfähigkeit. Geschäftsunfähigkeit richtet sich nach den gesetzlichen Voraussetzungen des § 104 BGB. Auch ein gerichtlich angeordneter Einwilligungsvorbehalt ist von der Geschäftsunfähigkeit zu unterscheiden."
+  },
+  {
+    "question": "Welche Aussage beschreibt eine Sache als Rechtsobjekt zutreffend?",
+    "options": {
+      "A": "Eine Sache besitzt automatisch dieselbe Rechtsfähigkeit wie ein Mensch.",
+      "B": "Eine Sache kann Gegenstand von Rechten sein, ist aber nicht selbst Träger von Rechten und Pflichten wie ein Rechtssubjekt.",
+      "C": "Jede Sache ist eine juristische Person.",
+      "D": "Sachen können selbstständig Verträge unterschreiben."
+    },
+    "correct": "B",
+    "explanation": "Rechtsobjekte sind Gegenstände, auf die sich Rechte beziehen können. Sachen können beispielsweise im Eigentum einer Person stehen. Sie sind jedoch nicht selbst Rechtssubjekte und damit nicht selbst Träger von Rechten und Pflichten."
+  },
+  {
+    "question": "Warum eignen sich vertretbare Sachen besonders für ein Sachdarlehen?",
+    "options": {
+      "A": "Weil beim Sachdarlehen Sachen gleicher Art, Güte und Menge zurückgewährt werden können.",
+      "B": "Weil ein Sachdarlehen nur mit Grundstücken möglich ist.",
+      "C": "Weil der Darlehensnehmer zwingend exakt dieselben einzelnen Stücke zurückgeben muss.",
+      "D": "Weil vertretbare Sachen niemals verbraucht werden dürfen."
+    },
+    "correct": "A",
+    "explanation": "Beim Sachdarlehen geht es gerade nicht darum, exakt dieselben individuellen Stücke zurückzuerhalten. Geschuldet werden Sachen gleicher Art, Güte und Menge. Dafür sind vertretbare Sachen besonders geeignet."
+  }
+]
